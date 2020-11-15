@@ -2,6 +2,7 @@
 
 ## Agile and Scrum potential interview questions
 **What is Agile?**
+
 Agile is essentially a methodology of delivering a product, which ensures fast, accurate and continuous delivery.
 It has 4 values to go by:
   - Individuals and interactions over processes and tools
@@ -10,6 +11,7 @@ It has 4 values to go by:
   - Responding to change over following a plan
 
 **What is Scrum?**
+
 Scrum is a framework used to deliver the Agile methodology.
 - It involves (artifacts)- product backlog, sprint backlog, burn-down sprint chart, and increments.
 - Implemented using (ceremonies)- Sprint planning, Daily scrum, Sprint review, Sprint retrospective.
@@ -23,9 +25,11 @@ Scrum is a framework used to deliver the Agile methodology.
 - Testing - What might happen?
 
 **Persona?**
+
 A persona is used to develop a deeper awareness of the users of the end product. It is a detailed real/hypothetical descripetion of a typical end user of the product the team is developing. It can help improve the value and integrity of the final product, as it helps determine what to include.
 
 **What are Scrum roles, Artifacts, Event roles, Sprint?**
+
 The scrum roles include:
 - Product owner (in charge of product backlog)
 - Scrum master (coach to development team and helps realise user stories)
@@ -35,6 +39,7 @@ Event Roles: The sprint planning requires all 3 scrum roles; the daily scrum inv
 The development of the product is broken down into increments. A sprint is a process undergone to realise each increment. It typically lasts no more than a month. A new sprint is started after the completion of the previous sprint.
 
 **V-Model, Agile, Waterfall - difference between them and use cases?**
+
 V - model and waterfall each dont start a next phase untill the previous one is completed, and end with a completed product. Agile develops a minimal viable product, and iterates on that product to improve it.
 The difference between V-model and waterfall, is that each stage is tested as its completed, where as the waterfall method only allows for testing after the development activities are completed.
 Use Cases:
@@ -55,6 +60,7 @@ Use Cases:
   - R - First product produced quickly, customer needs better defined, product keeps getting updated as customer needs better defined
 
 **Restrospective, Starfish Retrospective, Root cause?**
+
 In terms of Scrum, the sprint retrospective focusses on the improvement of the processes carried out in that sprint. Different to the sprint review, which focusses on the product produced. 
 The starfish retrospective defines 5 clear points to focus on in the retrospective:
   - What to start doing
@@ -62,10 +68,12 @@ The starfish retrospective defines 5 clear points to focus on in the retrospecti
   - What to keep doing
   - What to do more of
   - What to do less of
+
 Root cause analysis is the technique used by project managers and all professionals to spot the challenges a program should tackle to meet its target. The reason it is important is that the visible aspects of a specific issue might not be the root cause, and wou will need to dig deeper to find the problems contributing to this issue, and find their root cause.
 
 ## SQL potential interview questions
 **What is a foreign key?**
+
 
 **What is DML DDL?**
 
@@ -74,6 +82,7 @@ Root cause analysis is the technique used by project managers and all profession
 **What is OOP and four pillars?**
 
 **Example of when you implemented OOP?**
+
 situation-
 task-
 action-
