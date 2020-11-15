@@ -74,29 +74,98 @@ Root cause analysis is the technique used by project managers and all profession
 ## SQL potential interview questions
 **What is a foreign key?**
 
+A primary key is a column that uniquely identifies every row in the table. A foreign key is used to link two tables. The foreign key of one table is the primary key of the table it is linked to.
 
-**What is DML DDL?**
+**What is DML, DDL, DCL and TCL?**
 
+SQL commands are divided into 4 subgroups.
+- DML - Data Manipulation Language
+  - SELECT
+  - INSERT
+  - UPDATE
+  - DELETE
+  - MERGE
+  - CALL
+  - EXPLAIN PLAN
+  - LOCK TABLE
+- DDL - Data Definition Language
+  - CREATE
+  - ALTER
+  - DROP
+  - TRUNCATE
+  - COMMENT
+  - RENAME
+- DCL - Data Control Language
+  - GRANT
+  - REVOKE
+- TCL - Transaction Control Language
+  - COMMIT
+  - ROLLBACK
+  - SAVEPOINT
+  - SET TRANSACTION
 
 ## Python interview questions
 **What is OOP and four pillars?**
 
+OOP stands for object oriented programming. OOP can take its form in many ways such as the use of classes and objects but the 4 pillars define it:
+- Abstraction (Only showing whats relavent, and omit unecessary details)
+- Polymorphism (Methods receives paramters that handles many types)
+- Inheretence (Code shared through inheriting classes functionality)
+- Encapsulation (Encapture functionality and data within objects)
+
 **Example of when you implemented OOP?**
 
-situation-
-task-
-action-
-response-
+- S - Learning Python in my free time I set myself a project.
+- T - This was to build a simple blackjack game.
+- A - I created Classes for the bank, the player and the hand, and used the 4 pillars of OOP to guide the creation of these task with the final goal in mind. Each of these classes held abstract functionalities later specified in my code to create the blackjack game.
+- R - The game worked, and the code was easy to follow and understand due to the use of classes.
 
 **What is TDD & how we used it?**
 
-
+TDD stands for Test Driven Development. It is the methodology that focusses on making tests, writing code that passes those tests, then modifying the tests to build working software.
 
 ## DevOps interview questions
 **What is DevOps?**
 
+Devops links the development and operations teams, process and technology to continually provide value to customers. To have the enable speed and accuracy of delivering a product through:
+- Continuous intergration and continuous delivery
+- Version control
+- Agile software development
+- Infrastructure as code
+- Configuration management
+- Continuous monitoring
+
 **Why use DevOps?**
+
+- S - Development team and Operations team worked in separate silos with poor communication between teams
+- T - To improve the collaboration between teams, speed of product delivery, and customer satisfaction.
+- A - To impliment a DevOps culture, tools and practices
+- R - DevOps enables higher productivity and communication between teams improved. Continuous delivery of Software using agile methodologies meaning the Buisness is also able to adapt to the market and competition quicker and easier.
 
 **Why did you choose DevOps?**
 
+- A career in tech INTRIGUED me
+  - coding modules
+  - learned python having graduated
+  - DevOps specifically, the idea of working in a team to optimise software delivery plays to my strengths
+    - ACTIVE team player
+    - KEEN, FAST learner
+    - PROFICIENT Problem solving ability
+
 **Elavators Pitch?**
+
+- Sam
+- Physics degree
+- During final year i COMMITED to the role of rugby captain whilst revising exams and completing final year project.
+  - During this time i was SUFFERING from the INTENSE work load and BUSY schedule
+  - Getting through this required me to plan my days, delegate tasks when needed, and maintain focus
+  - SUCCESSFULLY ACHIEVED a 2:1 in final year project
+  - Got high 2:1 in degree overall
+  - Team placed 3rd in league
+- A career in tech INTRIGUED me
+  - coding modules
+  - learned python having graduated
+  - DevOps specifically, the idea of working in a team to optimise software delivery plays to my strengths
+    - ACTIVE team player
+    - KEEN, FAST learner
+    - PROFICIENT Problem solving ability
