@@ -174,3 +174,24 @@ It is best practise for bringing teams together, making them share responsibilit
 
 - Enthusiastic individual, jumps at the opportunity for challenge,
 - thrived in agile team delivering projects to a high standard, managed fundraising, 3rd coding competition, 2 side jobs.
+
+## Cloud and Microservices
+**Whats a VPC?**
+- segregated cloud for infrastructure.
+- NACL - SG - Subnets - IGW - Routes - Instances
+
+**Whats Networking?**
+- Mapping of the communication between computors.
+- done with IP addresses and ports for different requests.
+
+**Difference between VM and Containers?**
+- Containers share resources with the OS, this helps them be more lightweight and therefore faster to startup.
+- VM is for creating similar development, testing and production environments. 
+- Containers are for segregating different software into its own environment, that make them widely available and easily deployable.
+
+**AWS S3**
+- Provides data readily available on the cloud.
+- Used for desaster recovery plan
+- goes to glacier automatically after long time of no use
+- cost effective
+
