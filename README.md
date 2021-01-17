@@ -135,6 +135,8 @@ Devops links the development and operations teams, process and technology to con
 - Configuration management
 - Continuous monitoring
 
+It is best practise for bringing teams together, making them share responsibility, producing infrastructure as code, and automating processes. This CI/CD of the product will allow faster time to market, better team work ethic, automated scalable environments, continuous release cycles, and increased quality of product (constent testing).
+
 **Why use DevOps?**
 
 - S - Development team and Operations team worked in separate silos with poor communication between teams
@@ -169,3 +171,6 @@ Devops links the development and operations teams, process and technology to con
     - ACTIVE team player
     - KEEN, FAST learner
     - PROFICIENT Problem solving ability
+
+- Enthusiastic individual, jumps at the opportunity for challenge,
+- thrived in agile team delivering projects to a high standard, managed fundraising, 3rd coding competition, 2 side jobs.
