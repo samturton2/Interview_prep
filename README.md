@@ -151,8 +151,9 @@ It is best practise for bringing teams together, making them share responsibilit
   - learned python having graduated
   - DevOps specifically, the idea of working in a team to optimise software delivery plays to my strengths
     - ACTIVE team player
-    - KEEN, FAST learner
     - PROFICIENT Problem solving ability
+    - New software comes out, keen fast learner
+- Idea of Automating a long process really excites me. 
 
 **Elavators Pitch?**
 
