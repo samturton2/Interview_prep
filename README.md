@@ -157,23 +157,21 @@ It is best practise for bringing teams together, making them share responsibilit
 **Elavators Pitch?**
 
 - Sam
-- Physics degree
-- During final year i COMMITED to the role of rugby captain whilst revising exams and completing final year project.
-  - During this time i was SUFFERING from the INTENSE work load and BUSY schedule
-  - Getting through this required me to plan my days, delegate tasks when needed, and maintain focus
-  - SUCCESSFULLY ACHIEVED a 2:1 in final year project
-  - Got high 2:1 in degree overall
-  - Team placed 3rd in league
-- A career in tech INTRIGUED me
-  - coding modules
-  - learned python having graduated
-  - DevOps specifically, the idea of working in a team to optimise software delivery plays to my strengths
-    - ACTIVE team player
-    - KEEN, FAST learner
-    - PROFICIENT Problem solving ability
+- Physics degree  Uni of Bath
+- Rugby captain, final project, exams.
+- organised 3 teams, took time management
 
-- Enthusiastic individual, jumps at the opportunity for challenge,
-- thrived in agile team delivering projects to a high standard, managed fundraising, 3rd coding competition, 2 side jobs.
+- lucky enough to go on year abroad in nebraska
+- engulfed in new culture
+- fun challenging experience
+
+- Enthusiastic individual jumps at chance to challenge myself
+- During academy:
+	- Worked well in agile teams
+	- Managed fundraising for companies movember campaign
+	- 3rd in bot programming competition
+	- tutoring and food delivery on the side
+- Shows time management and work ethic, pride myself on.
 
 ## Cloud and Microservices
 **Whats a VPC?**
